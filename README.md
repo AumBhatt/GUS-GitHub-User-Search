@@ -1,4 +1,4 @@
-# <img align="center" src="./GH-Banner2.png" />
+# <img align="center" src="./GH-Banner4.png" />
 ### GUS - GitHub User Search
 A fullstack project for searching users on github. Made using React.js in frontend and Express for backend. Uses Redis Cloud Datastore for caching user data obtained from GitHub's Search API.
 Both the frontend and backend are hosted on Heroku Cloud Platform.
