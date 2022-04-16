@@ -5,6 +5,7 @@ Both the frontend and backend are hosted on Heroku Cloud Platform.
 
 ## Try it live:
 GUS App: https://gus-react-app.herokuapp.com
+GUS Server: https://gus-server.herokuapp.com
 
 ## Project Repositories:
 > gus-server: https://github.com/AumBhatt/gus-server <br>
